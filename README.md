@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @flespindola
-- 👀 I’m interested in new challenges
-- 🌱 I’m currently learning node and microservices
+- 🚀 I’m interested in new challenges
+- 📚 I’m currently learning nodeJS
 
 <!---
 flespindola/flespindola is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
